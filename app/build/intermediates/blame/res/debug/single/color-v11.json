@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/vinitsheth/Desktop/VisionImplementation/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/vinitsheth/.android/build-cache/b0c986d13ec44150b2121b61776a0dff35a925f2/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Volumes/TS/Downloads/android-vision-master/visionSamples/VisionImplementation/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/vinitsheth/.android/build-cache/b0c986d13ec44150b2121b61776a0dff35a925f2/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Volumes/TS/Downloads/android-vision-master/visionSamples/VisionImplementation/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/vinitsheth/.android/build-cache/b0c986d13ec44150b2121b61776a0dff35a925f2/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/vinitsheth/Desktop/VisionImplementation/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/vinitsheth/.android/build-cache/b0c986d13ec44150b2121b61776a0dff35a925f2/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

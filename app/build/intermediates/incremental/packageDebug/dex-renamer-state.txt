@@ -1,0 +1,7 @@
+#Fri Apr 06 12:42:22 IST 2018
+base.0=/Volumes/TS/Downloads/android-vision-master/visionSamples/VisionImplementation/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7b426cfaf8d1906322876e4acd46bda07c817ef0
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Volumes/TS/Downloads/android-vision-master/visionSamples/VisionImplementation/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f6d4247d5a3a1da460cc677bb591146d0f9de3ee/classes.dex
+base.1=/Volumes/TS/Downloads/android-vision-master/visionSamples/VisionImplementation/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f6d4247d5a3a1da460cc677bb591146d0f9de3ee
+file.0=/Volumes/TS/Downloads/android-vision-master/visionSamples/VisionImplementation/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7b426cfaf8d1906322876e4acd46bda07c817ef0/classes.dex

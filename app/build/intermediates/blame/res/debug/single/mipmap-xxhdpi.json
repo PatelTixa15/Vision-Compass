@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/vinitsheth/Desktop/VisionImplementation/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/Users/vinitsheth/Desktop/VisionImplementation/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/vinitsheth/Desktop/VisionImplementation/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/vinitsheth/Desktop/VisionImplementation/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Volumes/TS/Downloads/android-vision-master/visionSamples/VisionImplementation/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/Volumes/TS/Downloads/android-vision-master/visionSamples/VisionImplementation/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Volumes/TS/Downloads/android-vision-master/visionSamples/VisionImplementation/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Volumes/TS/Downloads/android-vision-master/visionSamples/VisionImplementation/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]
