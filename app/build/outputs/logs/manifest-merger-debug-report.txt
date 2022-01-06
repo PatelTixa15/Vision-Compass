@@ -1,0 +1,119 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/vinitsheth/Desktop/VisionImplementation/app/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /Users/vinitsheth/Desktop/VisionImplementation/app/src/main/AndroidManifest.xml:3:5-55
+		INJECTED from /Users/vinitsheth/Desktop/VisionImplementation/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vinitsheth/Desktop/VisionImplementation/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/vinitsheth/Desktop/VisionImplementation/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vinitsheth/Desktop/VisionImplementation/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/vinitsheth/Desktop/VisionImplementation/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/vinitsheth/Desktop/VisionImplementation/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vinitsheth/Desktop/VisionImplementation/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from /Users/vinitsheth/Desktop/VisionImplementation/app/src/main/AndroidManifest.xml:4:5-65
+	android:name
+		ADDED from /Users/vinitsheth/Desktop/VisionImplementation/app/src/main/AndroidManifest.xml:4:22-62
+application
+ADDED from /Users/vinitsheth/Desktop/VisionImplementation/app/src/main/AndroidManifest.xml:6:5-23:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/vinitsheth/.android/build-cache/b0c986d13ec44150b2121b61776a0dff35a925f2/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/vinitsheth/.android/build-cache/bf5a05c0e115f6fef967b57f139e6812d472c631/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/vinitsheth/.android/build-cache/082e13b85bb4c7c09fc0e7d226741097adc9c0ce/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/vinitsheth/.android/build-cache/eb6d7b8830bb95e7b0927a78d9700b0616772b80/output/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-vision:9.8.0] /Users/vinitsheth/.android/build-cache/fd1a2b830f29b1f22c2f7df036e6e104ca49b18a/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-base:9.8.0] /Users/vinitsheth/.android/build-cache/264ae0ea017a7dc53a9e4b0adbaf3d0a67fa3235/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] /Users/vinitsheth/.android/build-cache/cd6ec586996ac12e7b1bfa6eb8f7169db0694760/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] /Users/vinitsheth/.android/build-cache/41772de8869e75ff5a5fc8ce69eb921b3bd53ebd/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/vinitsheth/.android/build-cache/ca6d71122bfc462dbbb1f6ff1a486d3fec5918b2/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/vinitsheth/.android/build-cache/c3345d6d519c5cc6062d1dc36f282acfdd642230/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/vinitsheth/.android/build-cache/8d7f6b73c25c417ca442756868117f9f008c9396/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/vinitsheth/.android/build-cache/cfcd27f7ad04affa05647cda98d422790758cf1d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/vinitsheth/.android/build-cache/0737091963e9e36733172b1ce8596e00b2078b7c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/vinitsheth/.android/build-cache/ac00fb1f6e12c131def728b0b470e868e4dff1ab/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/vinitsheth/Desktop/VisionImplementation/app/src/main/AndroidManifest.xml:9:9-41
+	android:supportsRtl
+		ADDED from /Users/vinitsheth/Desktop/VisionImplementation/app/src/main/AndroidManifest.xml:11:9-35
+	android:roundIcon
+		ADDED from /Users/vinitsheth/Desktop/VisionImplementation/app/src/main/AndroidManifest.xml:10:9-54
+	android:allowBackup
+		ADDED from /Users/vinitsheth/Desktop/VisionImplementation/app/src/main/AndroidManifest.xml:7:9-35
+	android:icon
+		ADDED from /Users/vinitsheth/Desktop/VisionImplementation/app/src/main/AndroidManifest.xml:8:9-43
+	android:theme
+		ADDED from /Users/vinitsheth/Desktop/VisionImplementation/app/src/main/AndroidManifest.xml:12:9-40
+meta-data#com.google.android.gms.vision.DEPENDENCIES
+ADDED from /Users/vinitsheth/Desktop/VisionImplementation/app/src/main/AndroidManifest.xml:14:9-15:43
+	android:value
+		ADDED from /Users/vinitsheth/Desktop/VisionImplementation/app/src/main/AndroidManifest.xml:15:21-40
+	android:name
+		ADDED from /Users/vinitsheth/Desktop/VisionImplementation/app/src/main/AndroidManifest.xml:14:20-77
+activity#com.example.android.visionimplementation.MainActivity
+ADDED from /Users/vinitsheth/Desktop/VisionImplementation/app/src/main/AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from /Users/vinitsheth/Desktop/VisionImplementation/app/src/main/AndroidManifest.xml:16:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/vinitsheth/Desktop/VisionImplementation/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /Users/vinitsheth/Desktop/VisionImplementation/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /Users/vinitsheth/Desktop/VisionImplementation/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/vinitsheth/Desktop/VisionImplementation/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /Users/vinitsheth/Desktop/VisionImplementation/app/src/main/AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from /Users/vinitsheth/Desktop/VisionImplementation/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/vinitsheth/.android/build-cache/b0c986d13ec44150b2121b61776a0dff35a925f2/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/vinitsheth/.android/build-cache/bf5a05c0e115f6fef967b57f139e6812d472c631/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/vinitsheth/.android/build-cache/082e13b85bb4c7c09fc0e7d226741097adc9c0ce/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/vinitsheth/.android/build-cache/eb6d7b8830bb95e7b0927a78d9700b0616772b80/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-vision:9.8.0] /Users/vinitsheth/.android/build-cache/fd1a2b830f29b1f22c2f7df036e6e104ca49b18a/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-base:9.8.0] /Users/vinitsheth/.android/build-cache/264ae0ea017a7dc53a9e4b0adbaf3d0a67fa3235/output/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] /Users/vinitsheth/.android/build-cache/cd6ec586996ac12e7b1bfa6eb8f7169db0694760/output/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] /Users/vinitsheth/.android/build-cache/41772de8869e75ff5a5fc8ce69eb921b3bd53ebd/output/AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/vinitsheth/.android/build-cache/ca6d71122bfc462dbbb1f6ff1a486d3fec5918b2/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/vinitsheth/.android/build-cache/c3345d6d519c5cc6062d1dc36f282acfdd642230/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/vinitsheth/.android/build-cache/8d7f6b73c25c417ca442756868117f9f008c9396/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/vinitsheth/.android/build-cache/cfcd27f7ad04affa05647cda98d422790758cf1d/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/vinitsheth/.android/build-cache/0737091963e9e36733172b1ce8596e00b2078b7c/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/vinitsheth/.android/build-cache/ac00fb1f6e12c131def728b0b470e868e4dff1ab/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/vinitsheth/.android/build-cache/b0c986d13ec44150b2121b61776a0dff35a925f2/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/vinitsheth/Desktop/VisionImplementation/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vinitsheth/Desktop/VisionImplementation/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/vinitsheth/Desktop/VisionImplementation/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vinitsheth/Desktop/VisionImplementation/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/vinitsheth/.android/build-cache/b0c986d13ec44150b2121b61776a0dff35a925f2/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/vinitsheth/.android/build-cache/bf5a05c0e115f6fef967b57f139e6812d472c631/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/vinitsheth/.android/build-cache/082e13b85bb4c7c09fc0e7d226741097adc9c0ce/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/vinitsheth/.android/build-cache/ca6d71122bfc462dbbb1f6ff1a486d3fec5918b2/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/vinitsheth/.android/build-cache/c3345d6d519c5cc6062d1dc36f282acfdd642230/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/vinitsheth/.android/build-cache/8d7f6b73c25c417ca442756868117f9f008c9396/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/vinitsheth/.android/build-cache/cfcd27f7ad04affa05647cda98d422790758cf1d/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/vinitsheth/.android/build-cache/0737091963e9e36733172b1ce8596e00b2078b7c/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/vinitsheth/.android/build-cache/ac00fb1f6e12c131def728b0b470e868e4dff1ab/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/vinitsheth/.android/build-cache/b0c986d13ec44150b2121b61776a0dff35a925f2/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/vinitsheth/.android/build-cache/b0c986d13ec44150b2121b61776a0dff35a925f2/output/AndroidManifest.xml:26:9-47
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.8.0] /Users/vinitsheth/.android/build-cache/264ae0ea017a7dc53a9e4b0adbaf3d0a67fa3235/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] /Users/vinitsheth/.android/build-cache/264ae0ea017a7dc53a9e4b0adbaf3d0a67fa3235/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] /Users/vinitsheth/.android/build-cache/264ae0ea017a7dc53a9e4b0adbaf3d0a67fa3235/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] /Users/vinitsheth/.android/build-cache/264ae0ea017a7dc53a9e4b0adbaf3d0a67fa3235/output/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.8.0] /Users/vinitsheth/.android/build-cache/41772de8869e75ff5a5fc8ce69eb921b3bd53ebd/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.8.0] /Users/vinitsheth/.android/build-cache/41772de8869e75ff5a5fc8ce69eb921b3bd53ebd/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.8.0] /Users/vinitsheth/.android/build-cache/41772de8869e75ff5a5fc8ce69eb921b3bd53ebd/output/AndroidManifest.xml:20:20-65

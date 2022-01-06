@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/vinitsheth/.android/build-cache/fd1a2b830f29b1f22c2f7df036e6e104ca49b18a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a30aea7df545072ad3c06f56b2efc13e67222140">
+        <dex dex="/Volumes/TS/Downloads/android-vision-master/visionSamples/VisionImplementation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9aa08b378c63aa777839c6eae8a354d55a64a247/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinitsheth/.android/build-cache/264ae0ea017a7dc53a9e4b0adbaf3d0a67fa3235/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/Volumes/TS/Downloads/android-vision-master/visionSamples/VisionImplementation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b4075a7425148a8cc646565235dd7fe92da37ded/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinitsheth/.android/build-cache/41772de8869e75ff5a5fc8ce69eb921b3bd53ebd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/Volumes/TS/Downloads/android-vision-master/visionSamples/VisionImplementation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8bc892e256008cb9e7081bb2f677bc86b1ffa25b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vinitsheth/.android/build-cache/cd6ec586996ac12e7b1bfa6eb8f7169db0694760/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/Volumes/TS/Downloads/android-vision-master/visionSamples/VisionImplementation/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4e2fa4ece6ab8c2187305232217deba06a07776f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/TS/Downloads/android-vision-master/visionSamples/VisionImplementation/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Volumes/TS/Downloads/android-vision-master/visionSamples/VisionImplementation/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f6d4247d5a3a1da460cc677bb591146d0f9de3ee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/TS/Downloads/android-vision-master/visionSamples/VisionImplementation/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="187793405303b974c3e94393f44e68b5af98684b">
+        <dex dex="/Volumes/TS/Downloads/android-vision-master/visionSamples/VisionImplementation/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7b426cfaf8d1906322876e4acd46bda07c817ef0/classes.dex" />
+    </item>
+
+</items>
